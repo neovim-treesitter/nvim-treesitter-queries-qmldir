@@ -1,8 +1,7 @@
 {
-  "location": null,
-  "min_version": null,
   "url": "https://github.com/tree-sitter-grammars/tree-sitter-qmldir",
   "semver": false,
-  "lang": "qmldir",
-  "max_version": null
+  "parser_version": "6b2b5e41734bd6f07ea4c36ac20fb6f14061c841",
+  "location": null,
+  "lang": "qmldir"
 }
