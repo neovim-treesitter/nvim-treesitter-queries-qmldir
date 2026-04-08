@@ -1,6 +1,6 @@
 {
-  "semver": false,
-  "parser_version": "6b2b5e41734bd6f07ea4c36ac20fb6f14061c841",
+  "url": "https://github.com/tree-sitter-grammars/tree-sitter-qmldir",
   "lang": "qmldir",
-  "url": "https://github.com/tree-sitter-grammars/tree-sitter-qmldir"
+  "parser_version": "6b2b5e41734bd6f07ea4c36ac20fb6f14061c841",
+  "semver": false
 }
